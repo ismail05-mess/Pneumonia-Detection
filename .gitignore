@@ -1,0 +1,17 @@
+# Dataset
+chest_xray/
+archive.zip
+
+# Modèles entraînés
+model_weights/
+*.h5
+*.keras
+
+# Python
+__pycache__/
+*.pyc
+
+# Environnements
+venv/
+.venv/
+.env
